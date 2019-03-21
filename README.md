@@ -7,12 +7,12 @@ Magento 2 Who Bought This Also Bought extension has been developed by the produc
 Here are some of the salient features for the extension:
 
 ```
-1. Suggest products will be displayed based on the previous placed orders.
-2. Number of products in the slider can be minimize and maximize from admin extension configuration.
-3. Lazyload on slider where all the products display.
-4. Visible on Product Page,Home Page and Category Page.
-5. Levels of Category Hierarchy to display suggested products.
-6. Exlude or include out of stock products.
+1. Suggest products based on the previous placed orders
+2. Number of products in the slider can be increased or decreased in the backend extension configuration
+3. AJAX Lazy Load on slider where all the products are displayed
+4. Visible on Home Page, Product Page and Category Page
+5. Levels of Category Hierarchy to display suggested products
+6. Exclude or include out of stock products
 ```
 
 ## Installation
@@ -61,9 +61,9 @@ This extension will also be available on the Magento® Marketplace when approved
 
 ## Requirements
 
-1. This Magento® extension works on Magento 2.1,2.2 and 2.3 versions. Tested on versions 2.2.5 and above.
+1. This Magento® extension works on Magento 2.2 and 2.3 versions. Tested on versions 2.2.5 and above.
 
 2. Tested on different themes specifically Ultimo, Porto and certain custom themes
 
 For details, read our blog:
-https://www.rltsquare.com/blog/who-bought-this-magento-2-extension/
+https://www.rltsquare.com/blog/who-bought-this-also-bought-magento-2-extension/
